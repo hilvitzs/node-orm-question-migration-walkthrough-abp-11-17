@@ -8,6 +8,8 @@ class Question{
       id INTEGER PRIMARY KEY,
       content TEXT
     )`;
+
+    
   }
 }
 
