@@ -9,7 +9,9 @@ class Question{
       content TEXT
     )`;
 
-    
+    return new Promise(function(resolve) {
+      
+    })
   }
 }
 
